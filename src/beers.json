@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "Urweisse",
+      "type": "Wheat Beer",
+      "description": "This beer is rich in sparkle and has just a touch of a special bitter quality. The fruity, malty mild aroma will have you won you over immediately!",
+      "image":
+        "https://www.ayinger.de/cms/assets/images/2/cont_122a-9b812c92.jpg",
+      "abu": "5.8"
+    },
+    {
+      "id": 2,
+      "name": "Weizenbock",
+      "type": "Bock",
+      "description": "Colour is golden with copper tones. Aroma is typically and unique for Ayinger wheat beers. You will find low bitterness and dry taste.",
+      "image":
+        "https://www.ayinger.de/cms/assets/images/3/cont_125a-41b18923.jpg",
+      "abu": "7.0"
+    },
+    {
+      "id": 3,
+      "name": "Altbarisch Dunkel",
+      "day": "Dunkel",
+      "description": "Impenetrably dark with a golden-brown gleam when held up to the light, and with a warm aroma and malty taste, while summoning up coffee taste sensations on going down.",
+      "image":
+        "https://www.ayinger.de/cms/assets/images/1/cont_117a-9df4ab61.jpg",
+      "abu": "5.0"
+    }
+  ]
